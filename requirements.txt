@@ -1,0 +1,8 @@
+fastapi
+pandas
+numpy
+uvicorn
+aiofiles
+python-multipart
+jinja2
+textdistance

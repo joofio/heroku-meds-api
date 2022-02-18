@@ -1,0 +1,1043 @@
+index,truth,error,atc,ATC_3
+0,fosfomicina,fodfomicina,J01XX01,J01X
+1,Ampicilina,ampicilina,J01CA01,J01C
+2,Cinarizina,cinarizina,N07CA02,N07C
+3,nicotinell,lentocilina,, 
+4,scheriproct,sheriproct,, 
+5,Prednisolona + Cinchocaína,scheriproct,D07XA02,D07X
+6,pirenoxina,enoxiparina,S01X,S01X
+7,Lorazepam,lorenin,N05BA06,N05B
+8,dexametasona,dexamentasona,H02AB02,H02A
+9,lansoprazol,lansoprasol,A02BC03,A02B
+10,Diosmina,venex,C05CA03,C05C
+11,Clindamicina,dalacin v,J01FF01,J01F
+12,Albendazol,zentel,P02CA03,P02C
+13,gyno-pevaryl combipack,ginopevaryl combipack,, 
+14,Amoxicilina,cipamox,J01CA04,J01C
+15,folicil,foilcil,, 
+16,progesterona,porgesterona,G03DA04,G03D
+17,vicks vapospray,vics vapospray,, 
+18,Lisinopril,lisinopril,C09AA03,C09A
+19,Vitaminas do complexo B + Ácido ascórbico + Colecalciferol + Cálcio,polivitaminico,A11,A11
+20,Simeticone,aero-om,A03AX13,A03A
+21,Butirato de hidrocortisona,locoid,D07AB02,D07A
+22,Vitaminas do complexo B + Folinato de cálcio,dodepar,A11JC,A11J
+23,escitalopram,escitolopram,N06AB10,N06A
+24,Sertaconazol,sertopic,D01AC14,D01A
+25,messalazina,mesalazina,A07EC02,A07E
+26,paracetamol,paracaetamol,N02BE01,N02B
+27,Macrogol,macrogol,A06AD15,A06A
+28,Escina,venotop,C05CX,C05C
+29,Propranolol,propranolol,C07AA05,C07A
+30,Budesonida,budenofalk,D07AC09,D07A
+31,Rivaroxabano,xarelto,B01AF01,B01A
+32,Betametasona + Calcipotriol,daivobet,D07XC01,D07X
+33,Fluticasona + Formoterol,flutiform,R03AK07,R03A
+34,Aminofilina + Efedrina + Fenobarbital,anti-asmático,R03CA02,R03C
+35,gyno-pevaryl,gynopevaryl,, 
+36,Olmesartan medoxomilo + Hidroclorotiazida,olmetec plus,C09DA08,C09D
+37,suplemento proteico,suplementos proteicos,, 
+38,cetirizina,citerizina,R06AE07,R06A
+39,Bupropiom,elontril,N06AX12,N06A
+40,Diazepam,unisedil,N05BA01,N05B
+41,magnesiocard,magnasiocard,, 
+42,Betametasona,betametasona,H02AB01,H02A
+43,Fenilefrina,neo-sinefrina,S01GA05,S01G
+44,Terbutalina,terbutalina,R03AC03,R03A
+45,Dalteparina sódica,fragmin,B01AB04,B01A
+46,Sucralfato,sucralfato,A02BX02,A02B
+47,Perampanel,perampanel,N03AX22,N03A
+48,prolactina,citalopran,, 
+49,sulfametoxazol + trimetoprim,trimetropim sulfametoxazol,J01EE01,J01E
+50,Tramadol + Paracetamol,zilpen,N02AJ13,N02A
+51,Carbonato de cálcio,calcitab,A12AA04,A12A
+52,Clonazepam,rivotril,N03AE01,N03A
+53,Loperamida,loperamida,A07DA03,A07D
+54,Omeprazol,losec,A02BC01,A02B
+55,clotrimazol,clotrimaxol,D01AC01,D01A
+56,Proteínosuccinilato de ferro,legofer,B03AB09,B03A
+57,Acetilcisteína,fluimucil,R05CB01,R05C
+58,kreon 25000,kreon 25 000,, 
+59,lamivudina + raltegravir,lamivudina e raltegravir,, 
+60,Nadroparina cálcica,fraxiparina,B01AB06,B01A
+61,Lansoprazol,lansoprazol,A02BC03,A02B
+62,amoxicilina,amoxicilin´,J01CA04,J01C
+63,gino-canesten,ginocanesten,, 
+64,Isoniazida,isoniazida,J04AC01,J04A
+65,Etinilestradiol + Gestodeno,minigeste,G03AA10,G03A
+66,Hidrosmina,venosmil,C05CA05,C05C
+67,ácido fólico,ácido fólioc,B03BB01,B03B
+68,avelox,laxeov,, 
+69,Metronidazol,flagyl,J01XD01,J01X
+70,Tacalcitol,bonalfa,D05AX04,D05A
+71,Vacina contra a gripe,istivac,J07BB02,J07B
+72,Sulodexida,vessel,B01AB11,B01A
+73,amlodipina,amlodipinia,C08CA01,C08C
+74,Piridoxina,benadon,A11HA02,A11H
+75,Indapamida,indapamida,C03BA11,C03B
+76,Vitaminas do complexo B,becozyme,A11EA,A11E
+77,Magaldrato,magaldrato,A02AD02,A02A
+78,Terbinafina,terbinafina,D01BA02,D01B
+79,Digoxina,digoxina,C01AA05,C01A
+80,tromalyt,tromlayt,, 
+81,Propiltiouracilo,propiltiouracilo,H03BA02,H03B
+82,Aripiprazol,aripiprazol,N05AX12,N05A
+83,Rifampicina,rifampicina,J04AB02,J04A
+84,pirazinamida,pirazinamina,J04AK01,J04A
+85,sertaconazol,sertaconazol.,D01AC14,D01A
+86,Secnidazol,flagentyl,P01AB07,P01A
+87,Cetirizina,zyrtec,R06AE07,R06A
+88,Ciprofloxacina,ciprofloxacina,J01MA02,J01M
+89,Paracetamol,ben-u-ron,N02BE01,N02B
+90,cotrimoxazol,cotrimoxazole,, 
+91,Adalimumab,adalimumab,L04AB04,L04A
+92,Ciclopentolato,ciclopentolato,S01FA04,S01F
+93,,gastrocynesine,, 
+94,Cefradina,cefradur,J01DB09,J01D
+95,Alprazolam,xanax,N05BA12,N05B
+96,Cefixima,cefixima,J01DD08,J01D
+97,Bromocriptina,parlodel,G02CB01,G02C
+98,Cefalexina,cefalexina,J01DB01,J01D
+99,prednisolona,predinisolona,S01BA04,S01B
+100,Clobetasol,dermovate,D07AD01,D07A
+101,ultraproct,ultraproct.,, 
+102,Salmeterol,salmeterol,R03AC12,R03A
+103,Multivitaminas + Sais minerais + Ácido fólico,varimine,A11JB,A11J
+104,valdispert,valsdispert,, 
+105,Butilescopolamina,buscopan,A03BB01,A03B
+106,Emtricitabina + Rilpivirina + Tenofovir,eviplera,J05AR08,J05A
+107,Ranitidina,zantac,A02BA02,A02B
+108,Tiamazol,metibasol,H03BB02,H03B
+109,Topiramato,topiramato,N03AX11,N03A
+110,Flavoxato,urispas,G04BD02,G04B
+111,Melatonina,melatonina,N05CH01,N05C
+112,Cloxazolam,cloxazolam,N05BA22,N05B
+113,Cianocobalamina,cianocobalamina,B03BA01,B03B
+114,Carbamazepina,carbamazepina,N03AF01,N03A
+115,fluoxetina,fluxoetina,N06AB03,N06A
+116,Penicilamina,kelatine,M01CC01,M01C
+117,Mometasona,nasomet,D07AC13,D07A
+118,Beta-histina,beta-histina,N07CA01,N07C
+119,Valeriana (raíz),livetan,N05CM09,N05C
+120,Levocarnitina,disocor,A16AA01,A16A
+121,Ondansetrom,ondansetrom,A04AA01,A04A
+122,yodafar,yodafra,, 
+123,bactrim forte,bactrin forte,, 
+124,Azatioprina,azafalk,L04AX01,L04A
+125,Levofolinato de cálcio,folitec,V03AF04,V03A
+126,Loratadina,claritine,R06AX13,R06A
+127,Ambroxol,ambroxol,R05CB06,R05C
+128,hidróxido de alumínio,hidróxido de alumio,A02AB01,A02A
+129,Drospirenona + Etinilestradiol,yasminelle,G03AA12,G03A
+130,Trazodona,trazone ac,N06AX05,N06A
+131,Ácido ascórbico,ácido ascórbico,A11GA01,A11G
+132,Dimetindeno,fenistil gel,D04AA13,D04A
+133,ceftriaxona,ceftriaxone,J01DD04,J01D
+134,fenticonazol,fenticonazol.,D01AC12,D01A
+135,Bromazepam,lexotan,N05BA08,N05B
+136,montelucaste,montlucaste,R03DC03,R03D
+137,Moxifloxacina,moxifloxacina,J01MA14,J01M
+138,Desogestrel,desogestrel,G03AC09,G03A
+139,Amoxicilina + Ácido clavulânico,betamox,J01CR02,J01C
+140,ulcimer,ulcerim,, 
+141,Ritonavir,ritonavir,J05AE03,J05A
+142,Nifuratel + Nistatina,dafnegil,G01AA01,G01A
+143,Cobamamida,jaba b12,B03BA04,B03B
+144,Etofenamato,reumon gel,M02AA06,M02A
+145,Varfarina,varfarina,B01AA03,B01A
+146,Olanzapina,zyprexa,N05AH03,N05A
+147,Doxilamina,doxilamina,R06AA09,R06A
+148,iodeto de potássio,iodeto de potassio,H03CA,H03C
+149,Aminofilina,filotempo,R03DA05,R03D
+150,emtricitabina,emctricitabina,J05AF09,J05A
+151,venex forte,venex  forte,, 
+152,Bisacodilo,dulcolax,A06AB02,A06A
+153,Domperidona,cinet,A03FA03,A03F
+154,Atazanavir,atazanavir,J05AE08,J05A
+155,Carboximaltose férrica,ferinject,B03AC,B03A
+156,Brometo de piridostigmina,mestinon,N07AA02,N07A
+157,lorsedal,loserdal,, 
+158,Amitriptilina,adt,N06AA09,N06A
+159,Pantoprazol,mag,A02BC02,A02B
+160,isoniazida + piridoxina,isoniazida e piridoxina,J04AC01,J04A
+161,Etodolac,dualgan,M01AB08,M01A
+162,lepicortinolo,lepicortinol,, 
+163,Tenofovir,tenofovir,J05AF07,J05A
+164,propranolol,propranolol.,C07AA05,C07A
+165,Ebastina,kestine,R06AX22,R06A
+166,Risperidona,risperidona,N05AX08,N05A
+167,xarope de maçãs reinetas,xarope de maçã reineta,, 
+168,primperan,prinperam,, 
+169,Lopinavir + Ritonavir,kaletra,J05AR10,J05A
+170,Ofloxacina,ofloxacina,J01MA01,J01M
+171,Clotrimazol,canesten,D01AC01,D01A
+172,"Vacina contra a difteria, o tétano e a tosse convulsa",triaxis,J07A,J07A
+173,kompensan,konpensam,, 
+174,atrovent,atorvent,, 
+175,Propofol,propofol,N01AX10,N01A
+176,Fluocortolona + Lidocaína,ultraproct,C05A,C05A
+177,Dexametasona,dexafree,H02AB02,H02A
+178,Ibuprofeno,brufen,M01AE01,M01A
+179,Zonisamida,zonisamida,N03AX15,N03A
+180,Flucloxacilina,floxapen,J01CF05,J01C
+181,Golimumab,golimumab,L04AB06,L04A
+182,metotrexato,metrotrexato,L01BA01,L01B
+183,Rabeprazol,rabeprazol,A02BC04,A02B
+184,polivitaminico,polivitaminicio,, 
+185,bricanyl,brycanil,, 
+186,ácido clavulânico,ácido clavulanico,, 
+187,Multivitaminas,multivitaminas,A11BA,A11B
+188,Brometo de tiotrópio,braltus,R03BB04,R03B
+189,Estradiol,estrofem,G03CA03,G03C
+190,Quetiapina,seroquel,N05AH04,N05A
+191,acetilcisteína,acetilcisteina,R05CB01,R05C
+192,atropocil,proctoial,, 
+193,Bilastina,bilastina,R06AX,R06A
+194,Formoterol,foradil,R03AC13,R03A
+195,Ciclosporina,ciclosporina,L04AD01,L04A
+196,Ciclobenzaprina,ciclobenzaprina,M03BX08,M03B
+197,locoid,dolico,, 
+198,Dobesilato de cálcio + Lidocaína,doxiproct,D04A,D04A
+199,Duloxetina,duloxetina,N06AX21,N06A
+200,Emtricitabina + Tenofovir,truvada,J05AR03,J05A
+201,Loflazepato de etilo,loflazepato de etilo,N05BA18,N05B
+202,Dexametasona + Clotrimazol,baycuten,D07XB05,D07X
+203,Metformina + Sitagliptina,janumet,A10BD07,A10B
+204,Fenticonazol,lomexin,D01AC12,D01A
+205,metformina,metoformina,A10BA02,A10B
+206,Cefaclor,cefaclor,J01DC04,J01D
+207,ácido ursodesoxicólico,ácido ursodesoxicólico.,A05AA02,A05A
+208,pankreoflat,pancreoflat,, 
+209,innohep,inhonep,, 
+210,Ciamemazina,tercian,N05AA06,N05A
+211,Oseltamivir,tamiflu,J05AH02,J05A
+212,Oxazepam,oxazepam,N05BA04,N05B
+213,Flecainida,flecainida,C01BC04,C01B
+214,Prometazina,prometazina,D04AA10,D04A
+215,Permetrina,permetrina,P03AC04,P03A
+216,Tinidazol,fasigyn,J01XD02,J01X
+217,Cloroquinaldol + Promestrieno,trophoseptine,G03CA09,G03C
+218,Atorvastatina,atorvastatina,C10AA05,C10A
+219,Trimetazidina,trimetazidina,C01EB15,C01E
+220,Prazepam,demetrin,N05BA11,N05B
+221,Omalizumab,omalizumab,R03DX05,R03D
+222,Policresaleno + Cinchocaína,faktu,C05A,C05A
+223,ácido acetilsalicílico,acido acetilsalicilico,N02BA01,N02B
+224,Valsartan,valsartan,C09CA03,C09C
+225,pantoprazol,patoprazol,A02BC02,A02B
+226,ondansetrom,ondansetron,A04AA01,A04A
+227,Codeína,codeína,R05DA04,R05D
+228,bioflavonóides,bioflavonoides,C05CA53,C05C
+229,nitrofurantoína,nitrofurantoína.,J01XE01,J01X
+230,Mexazolam,sedoxil,N05BA,N05B
+231,Fluoxetina,prozac,N06AB03,N06A
+232,Minociclina,minociclina,J01AA08,J01A
+233,Metilprednisolona,medrol,H02AB04,H02A
+234,Budesonida + Formoterol,gibiter easyhaler,R03AK07,R03A
+235,carbonato de cálcio,carbonato de calcio,A12AA04,A12A
+236,Gluconato ferroso,hemototal,B03AA03,B03A
+237,Messalazina,messalazina,A07EC02,A07E
+238,Colecalciferol,molinar,A11CC05,A11C
+239,Cloreto de magnésio,magnoral,A12CC01,A12C
+240,nebivolol,nevibolol,C07AB12,C07A
+241,Raltegravir,raltegravir,J05AX08,J05A
+242,Brometo de ipratrópio,atrovent,R03BB01,R03B
+243,Esomeprazol,nexium,A02BC05,A02B
+244,Atenolol,tenormin mite,C07AB03,C07A
+245,fluticasona,fluticazona,D07AC17,D07A
+246,Nistatina,nistatina,G01AA01,G01A
+247,Levocetirizina,xyzal,R06AE09,R06A
+248,Clomipramina,anafranil,N06AA04,N06A
+249,boostrix,boostirx,, 
+250,Lamotrigina,lamictal,N03AX09,N03A
+251,Acetato de glatirâmero,acetato de glatirâmero,L03AX13,L03A
+252,Bacillus doederlein,normogin,G01AX,G01A
+253,Bromexina,bisolvon,R05CB02,R05C
+254,Mianserina,mianserina,N06AX03,N06A
+255,Iodeto de potássio,yodiquer,H03CA,H03C
+256,one touch select plus,onetouch select plus,, 
+257,Hidrocortisona,proctorrane,A07EA02,A07E
+258,Etinilestradiol + Etonogestrel,circlet,G03AA,G03A
+259,eutirox,eutiorx,, 
+260,Metirapona,metirapona,V04CD01,V04C
+261,Cefuroxima,zoref,J01DC02,J01D
+262,Aceponato de metilprednisolona,advantan,D07AC14,D07A
+263,Sinvastatina,sinvastatina,C10AA01,C10A
+264,Ácido fólico + Cianocobalamina + Iodo,folyoben,B03BB51,B03B
+265,Citrato de sódio + Laurilsulfoacetato de sódio,microlax,A06AG20,A06A
+266,betametasona,betametsona,H02AB01,H02A
+267,espiramicina,espiromicina,J01FA02,J01F
+268,Ácido valpróico,depakine,N03AG01,N03A
+269,Cortisona,cortisona,, 
+270,Cefazolina,cefazolina,J01DB04,J01D
+271,Acetato de eslicarbazepina,zebinix,N03AF04,N03A
+272,pirimetamina,pirimetamina),P01BD01,P01B
+273,Acetonido de fluocinolona,synalar,D07AC04,D07A
+274,laevolac,laevocal,, 
+275,desloratadina,desloratidina,R06AX27,R06A
+276,maltofer,matlofer,, 
+277,loratadina,loradatina,R06AX13,R06A
+278,Emtricitabina,emtricitabina,J05AF09,J05A
+279,Levofloxacina,tavanic,J01MA12,J01M
+280,Valeriana,valeriana,N05CM09,N05C
+281,propycil,propicyl,, 
+282,budesonida,budenosida,D07AC09,D07A
+283,Buspirona,buspirona,N05BE01,N05B
+284,Óxido férrico sacarosado,venofer,B03AC,B03A
+285,Cefoxitina,cefoxitina,J01DC01,J01D
+286,Espironolactona,espironolactona,C03DA01,C03D
+287,Metadona,metadona,N07BC02,N07B
+288,Fingolimod,fingolimod,L04AA27,L04A
+289,Metamizol magnésico,nolotil,N02BB,N02B
+290,Sulfametoxazol + Trimetoprim,bactrim forte,J01EE01,J01E
+291,Lactitol,importal,A06AD12,A06A
+292,cloreto de dequalínio,cloreto de dequalínio.,G01AC05,G01A
+293,Acetilsalicilato de lisina,aspegic,N02BA01,N02B
+294,Betametasona + Clotrimazol,flotiran,D07XC01,D07X
+295,Losartan,losartan,C09CA01,C09C
+296,Calcifediol,calcifediol,A11CC06,A11C
+297,rovamycine,rovamicyne,, 
+298,Econazol,econazol,G01AF05,G01A
+299,Timolol + Dorzolamida,cosopt,S01ED51,S01E
+300,Infliximab,infliximab,L04AB02,L04A
+301,Carbonato de cálcio + Colecalciferol,ideos,A11JB,A11J
+302,Tramadol,tramadol,N02AX02,N02A
+303,Trandolapril,trandolapril,C09AA10,C09A
+304,clavamox dt,calvamox dt,, 
+305,leite magnesia phillips,leite magnesia philips.,, 
+306,Sertralina,zoloft,N06AB06,N06A
+307,Calcitriol,rocaltrol,A11CC04,A11C
+308,Cetotifeno,zaditen,R06AX17,R06A
+309,emtricitabina + tenofovir,tenofovir / emtricitabina,J05AR03,J05A
+310,Furoato de fluticasona + Vilanterol,relvar ellipta,R03AK10,R03A
+311,Naproxeno,naproxeno,M01AE02,M01A
+312,Óxido de zinco,olidermil,,nan
+313,Escitalopram,cipralex,N06AB10,N06A
+314,Ginkgo biloba,biloban,N06DX02,N06D
+315,hidroxizina,hidroxisina,N05BB01,N05B
+316,Progesterona,utrogestan,G03DA04,G03D
+317,Gentamicina,gentamicina,J01GB03,J01G
+318,progeffik,porgeffik,, 
+319,amitriptilina,amotriptilina,N06AA09,N06A
+320,azatioprina,azatiprina,L04AX01,L04A
+321,Pentoxifilina,trental,C04AD03,C04A
+322,orencia,inocare,, 
+323,Didrogesterona,duphaston,G03DB01,G03D
+324,avamys,avayms,, 
+325,avodart,trovada,, 
+326,lercanidipina,lercadinipina,C08CA13,C08C
+327,Codeína + Feniltoloxamina,codipront,R05DA04,R05D
+328,Hidróxido de alumínio,hidróxido de alumínio,A02AB01,A02A
+329,Aciclovir,zovirax,J05AB01,J05A
+330,Aspartato de arginina,sargenor,A16AA,A16A
+331,Clonixina,clonix,N02B,N02B
+332,Efavirenz,efavirenz,J05AG03,J05A
+333,Benzidamina,rosalgin,M02AA05,M02A
+334,aripiprazol,aripripazol,N05AX12,N05A
+335,Indometacina,indometacina,M02AA23,M02A
+336,Desloratadina,desloratadina,R06AX27,R06A
+337,Desmopressina,desmopressina,H01BA02,H01B
+338,Hidrocortisona + Natamicina + Neomicina,pimafucort,D07BA04,D07B
+339,metronidazol,metronidazol.,J01XD01,J01X
+340,beta-histina,betahistina,N07CA01,N07C
+341,Macrogol + Bicarbonato de sódio + Cloreto de potássio + Cloreto de sódio,magolac,A06AD65,A06A
+342,Fexofenadina,telfast,R06AX26,R06A
+343,Ésteres etílicos 90 do ácido omega-3,omacor,C10AX,C10A
+344,Fluvoxamina,dumyrox,N06AB08,N06A
+345,Hidroclorotiazida,hidroclorotiazida,C03AA03,C03A
+346,Cinchocaína,nupercainal,D04AB02,D04A
+347,Abacavir,abacavir,J05AF06,J05A
+348,Cloreto de dequalínio,fluomizin,G01AC05,G01A
+349,Rosuvastatina,visacor 5 mg,C10AA07,C10A
+350,Azitromicina,azitromicina,J01FA10,J01F
+351,sucralfato,sucralfato.,A02BX02,A02B
+352,Citalopram,citalopram,N06AB04,N06A
+353,mirtazapina,mirtazepina,N06AX11,N06A
+354,Pentazocina,pentazocina,N02AD01,N02A
+355,Paracetamol + Codeína,dol-u-ron,N02BE71,N02B
+356,cefatrizina,cefatrizina.,J01DB07,J01D
+357,Flunarizina,flunarizina,N07CA03,N07C
+358,Tansulosina,tansulosina,G04CA02,G04C
+359,Rupatadina,rinialer,R06AX28,R06A
+360,Cefatrizina,macropen,J01DB07,J01D
+361,Senosido A + Senosido B,pursennide,A06AB06,A06A
+362,Furosemida,lasix,C03CA01,C03C
+363,Espiramicina,rovamycine,J01FA02,J01F
+364,Estriol,estriol,G03CA04,G03C
+365,Cabergolina,dostinex,N04BC06,N04B
+366,Trepibutona,trepibutona,A05A,A05A
+367,metoprolol,metoprolol.,C07AB02,C07A
+368,clorazepato dipotássico,clorazepato dipotassico,N05BA05,N05B
+369,Diclofenac,voltaren,M01AB05,M01A
+370,metoclopramida,metoclopriamida,A03FA01,A03F
+371,Erdosteína,erdosteína,R05CB15,R05C
+372,Gabapentina,gabapentina,N03AX12,N03A
+373,Cassia angustifolia (fruto) + Ispagula (mucilagem) + Plantago ovata (sementes),agiolax,A06AC,A06A
+374,megasin,magnesi,, 
+375,Oxcarbazepina,oxcarbazepina,N03AF02,N03A
+376,relvar ellipta,relvar ellpta,, 
+377,Carbocisteína + Sobrerol,niflux,R05CB03,R05C
+378,folifer,folfier,, 
+379,Fluconazol,fluconazol,J02AC01,J02A
+380,Tiamina,tiamina,A11DA01,A11D
+381,Deflazacorte,rosilan,H02AB13,H02A
+382,Metformina,glucophage,A10BA02,A10B
+383,Triflusal,triflusal,B01AC18,B01A
+384,Lacosamida,lacosamida,N03AX18,N03A
+385,tegretol,tegetrol,, 
+386,Hesperidina + Ruscus aculeatus + Ácido ascórbico,cyclo 3,C05CA51,C05C
+387,Valaciclovir,valtrex,J05AB11,J05A
+388,colecalciferol,colcalciferol,A11CC05,A11C
+389,salofalk,solafalk,, 
+390,valaciclovir,valaciclovir.,J05AB11,J05A
+391,Hidroxicloroquina,hidroxicloroquina,P01BA02,P01B
+392,fluomizin,fluimozin,, 
+393,Mirtazapina,mirtazapina,N06AX11,N06A
+394,livetan,levitan,, 
+395,Econazol + Triamcinolona,pevisone,D01AC03,D01A
+396,rilpivirina,rilpivirine,J05AG05,J05A
+397,Pancreatina + Dimeticone,pankreoflat,A09AA02,A09A
+398,Lisado de Escherichia coli,uro-vaxom,A07FA,A07F
+399,lanreotida,loretadina,H01CB03,H01C
+400,Rilpivirina,rilpivirina,J05AG05,J05A
+401,Clopidogrel,clopidogrel,B01AC04,B01A
+402,Nitrofurantoína,nitrofurantoína,J01XE01,J01X
+403,Folinato de cálcio,folinato de cálcio,V03AF03,V03A
+404,Nebivolol,nebivolol,C07AB12,C07A
+405,Isradipina,isradipina,C08CA03,C08C
+406,risidon,ridison,, 
+407,Miconazol,daktarin,D01AC02,D01A
+408,Dimetindeno + Fenilefrina,vibrocil,R01AX10,R01A
+409,Baclofeno,baclofeno,M03BX01,M03B
+410,Etambutol,etambutol,J04AK02,J04A
+411,Dimenidrinato,dimenidrinato,A04AD,A04A
+412,Lactulose,lactulose,A06AD11,A06A
+413,Darunavir,darunavir,J05AE10,J05A
+414,Interferão beta-1a,avonex,L03AB07,L03A
+415,Dabigatrano etexilato,pradaxa,B01AE07,B01A
+416,procto-glyvenol,procto-glynenol,, 
+417,levocetirizina,levocetrizina,R06AE09,R06A
+418,augmentin duo,augmentim duo,, 
+419,Clobazam,clobazam,N05BA09,N05B
+420,Tapentadol,palexia,N02AX06,N02A
+421,cloxacilina,floxaciclina,, 
+422,venlafaxina,venlafexina,N06AX16,N06A
+423,Ruscogenina + Trimebutina,proctolog,C05AX03,C05A
+424,pregnyl,prgenyl,, 
+425,doce alívio,doce alivio,, 
+426,Amilase,maxilase,M09AB,M09A
+427,yodiquer,iodyquer,, 
+428,flagentyl,falgentyl,, 
+429,Lítio,lítio,N05AN01,N05A
+430,cabergolina,carbegolina,N04BC06,N04B
+431,propiltiouracilo,propiltiouricilo,H03BA02,H03B
+432,Benzoato de benzilo,acarilbial,P03AX01,P03A
+433,Ácido cromoglícico,fenolip,S01GX01,S01G
+434,Fosfato de alumínio,phosphalugel,A02AB03,A02A
+435,Levotiroxina sódica,eutirox,H03AA01,H03A
+436,Tilactase,lisolac,A09AA,A09A
+437,Letrozol,letrozol,L02BG04,L02B
+438,Fluticasona,flonaze,D07AC17,D07A
+439,lovenox,levonox,, 
+440,Fenobarbital,fenobarbital,N03AA02,N03A
+441,Ramipril,ramipril,C09AA05,C09A
+442,nevirapina,niverapina,J05AG01,J05A
+443,clamoxyl,calmoxyl,, 
+444,nasorhinathiol,nasorhinthiol,, 
+445,Difenidramina + Calamina + Cânfora,caladryl,D04AA32,D04A
+446,Haloperidol,haloperidol,N05AD01,N05A
+447,Abacavir + Lamivudina,kivexa,J05AR02,J05A
+448,Povidona,oculotect,S01XA20,S01X
+449,gaviscon,gasvicon,, 
+450,Vitaminas + Sais minerais e outras associações,elevit,,nan
+451,Ácido ursodesoxicólico,ácido ursodesoxicólico,A05AA02,A05A
+452,Claritromicina,klacid,J01FA09,J01F
+453,sulfassalazina,sulfasalazina,A07EC01,A07E
+454,Torasemida,torasemida,C03CA04,C03C
+455,Ácido fusídico,fucidine,D06AX01,D06A
+456,Dolutegravir,tivicay,J05AX12,J05A
+457,atorvastatina,atovastatina,C10AA05,C10A
+458,Beclometasona,beclotaide,R03BA01,R03B
+459,Etonogestrel,etonogestrel,G03AC08,G03A
+460,nupercainal,nupercanial,, 
+461,Inibidor da estearase C1 humana,berinert,B06AC01,B06A
+462,duac,audc,, 
+463,nausefe,anusefe,, 
+464,Telmisartan,telmisartan,C09CA07,C09C
+465,Picossulfato de sódio,dulcogotas,A06AB08,A06A
+466,levetiracetam,levetiracetan,N03AX14,N03A
+467,Eritromicina,eritromicina,D10AF02,D10A
+468,cefradina,cefardina,J01DB09,J01D
+469,Lamivudina,lamivudina,J05AF05,J05A
+470,Óxido de zinco + Dióxido de titânio + Tetracaína,hemofissural,C05AX03,C05A
+471,daflon,dalfon,, 
+472,salmeterol,salmeterol),R03AC12,R03A
+473,Acetazolamida,acetazolamida,S01EC01,S01E
+474,oxcarbazepina,oxicarbazepina,N03AF02,N03A
+475,Buprenorfina + Naloxona,suboxone,N07BC01,N07B
+476,Metilfenidato,concerta,N06BA04,N06B
+477,Bioflavonóides,bioflavonóides,C05CA53,C05C
+478,Tiocolquicosido,relmus,M03BX05,M03B
+479,ansilor,rosalin,, 
+480,Pancreatina,kreon,A09AA02,A09A
+481,Polisulfato sódico de pentosano,thrombocid,C05BA04,C05B
+482,Venlafaxina,zarelix,N06AX16,N06A
+483,Doxiciclina,doxiciclina,J01AA02,J01A
+484,symbicort,simbycort,, 
+485,Perindopril,perindopril,C09AA04,C09A
+486,Paroxetina,seroxat,N06AB05,N06A
+487,Montelucaste,singulair,R03DC03,R03D
+488,synalar rectal,synalar retal,, 
+489,zoprame,omepraz,, 
+490,Ácido fólico,folicil,B03BB01,B03B
+491,Lidocaína,lidoject,N01BB02,N01B
+492,Oxibutinina,ditropan,G04BD04,G04B
+493,Fenitoína,hidantina,N03AB02,N03A
+494,vigantol,vingatol,, 
+495,Cimetidina,cimetidina,A02BA01,A02B
+496,Ambroxol + Clenbuterol,ventoliber,R03AC14,R03A
+497,Acetonido de fluocinolona + Lidocaína + Subgalhato de bismuto,synalar rectal,D07BC02,D07B
+498,utrogestan,uterogestan,, 
+499,fleroxacina,cefaloxina,J01MA08,J01M
+500,Valganciclovir,valganciclovir,J05AB14,J05A
+501,pulmicort,plumicort,, 
+502,Vortioxetina,vortioxetina,N06AX26,N06A
+503,Brometo de umeclidínio + Vilanterol,anoro,R03AL03,R03A
+504,Óxido de zinco + Retinol + Colecalciferol,halibut,,nan
+505,Aspartato de magnésio,metabol,A12CC05,A12C
+506,Pidolato de magnésio,magnesona,A02AA,A02A
+507,Ácido fólico + Ferro,folifer,B03AD,B03A
+508,Ferro,ferro,, 
+509,Complexo hidróxido férrico-polimaltose,maltofer,B03AB,B03A
+510,fosfomicina,fofomicina,J01XX01,J01X
+511,Ampicilina,ampicilina,J01CA01,J01C
+514,scheriproct,scheriproct.,, 
+515,Prednisolona + Cinchocaína,scheriproct,D07XA02,D07X
+517,Lorazepam,ansilor,N05BA06,N05B
+518,dexametasona,dexametazona,H02AB02,H02A
+519,lansoprazol,lanzoprazol,A02BC03,A02B
+520,Diosmina,venex 900,C05CA03,C05C
+521,Clindamicina,clindamicina,J01FF01,J01F
+522,Albendazol,zentel,P02CA03,P02C
+523,gyno-pevaryl combipack,gynopevaryl combipack,, 
+524,Amoxicilina,clamoxyl,J01CA04,J01C
+525,folicil,foliicl,, 
+526,progesterona,pregesterona,G03DA04,G03D
+529,Vitaminas do complexo B + Ácido ascórbico + Colecalciferol + Cálcio,polivitaminico,A11,A11
+530,Simeticone,aero-om,A03AX13,A03A
+533,escitalopram,estitalopram,N06AB10,N06A
+534,Sertaconazol,dermofix,D01AC14,D01A
+535,messalazina,messalasina,A07EC02,A07E
+536,paracetamol,paracatamol,N02BE01,N02B
+537,Macrogol,casenlax,A06AD15,A06A
+540,Budesonida,miflonide,D07AC09,D07A
+541,Rivaroxabano,rivaroxabano,B01AF01,B01A
+542,Betametasona + Calcipotriol,daivobet,D07XC01,D07X
+543,Fluticasona + Formoterol,flutiform,R03AK07,R03A
+545,gyno-pevaryl,gyno pevaryl,, 
+548,cetirizina,cetririzina,R06AE07,R06A
+550,Diazepam,valium,N05BA01,N05B
+551,magnesiocard,magensiocard,, 
+552,Betametasona,diprosone,H02AB01,H02A
+556,Sucralfato,sucralfato,A02BX02,A02B
+560,Tramadol + Paracetamol,zaldiar,N02AJ13,N02A
+561,Carbonato de cálcio,calcitab,A12AA04,A12A
+562,Clonazepam,clonazepam,N03AE01,N03A
+563,Loperamida,loperamida,A07DA03,A07D
+564,Omeprazol,losec,A02BC01,A02B
+565,clotrimazol,clotrimazol.,D01AC01,D01A
+567,Acetilcisteína,fluimucil,R05CB01,R05C
+571,Lansoprazol,lansoprazol,A02BC03,A02B
+572,amoxicilina,amoxiciclina,J01CA04,J01C
+573,gino-canesten,ginocanesten,, 
+574,Isoniazida,isoniazida,J04AC01,J04A
+575,Etinilestradiol + Gestodeno,gynera,G03AA10,G03A
+576,Hidrosmina,venosmil,C05CA05,C05C
+577,ácido fólico,ácido fólcico,B03BB01,B03B
+578,avelox,laxeov,, 
+579,Metronidazol,flagyl,J01XD01,J01X
+581,Vacina contra a gripe,vacina contra a gripe,J07BB02,J07B
+584,Piridoxina,piridoxina,A11HA02,A11H
+585,Indapamida,indapamida,C03BA11,C03B
+587,Magaldrato,riopan,A02AD02,A02A
+589,Digoxina,digoxina,C01AA05,C01A
+590,tromalyt,tromatyl,, 
+591,Propiltiouracilo,propiltiouracilo,H03BA02,H03B
+592,Aripiprazol,aripiprazol,N05AX12,N05A
+593,Rifampicina,rifampicina,J04AB02,J04A
+595,sertaconazol,sertaconazole,D01AC14,D01A
+597,Cetirizina,zyrtec,R06AE07,R06A
+598,Ciprofloxacina,ciprofloxacina,J01MA02,J01M
+599,Paracetamol,ben-u-ron,N02BE01,N02B
+600,cotrimoxazol,co-trimoxazol,, 
+601,Adalimumab,humira,L04AB04,L04A
+603,,homeogene 9,, 
+604,Cefradina,cefradina,J01DB09,J01D
+605,Alprazolam,xanax xr,N05BA12,N05B
+606,Cefixima,cefixima,J01DD08,J01D
+607,Bromocriptina,parlodel,G02CB01,G02C
+612,Salmeterol,salmeterol,R03AC12,R03A
+613,Multivitaminas + Sais minerais + Ácido fólico,prenatal,A11JB,A11J
+614,valdispert,vakldispert,, 
+615,Butilescopolamina,butilescopolamina,A03BB01,A03B
+618,Tiamazol,tiamazol,H03BB02,H03B
+619,Topiramato,topamax,N03AX11,N03A
+621,Melatonina,melatonina,N05CH01,N05C
+622,Cloxazolam,cloxazolam,N05BA22,N05B
+623,Cianocobalamina,permadoze,B03BA01,B03B
+624,Carbamazepina,tegretol,N03AF01,N03A
+625,fluoxetina,fluoxetrina,N06AB03,N06A
+627,Mometasona,nasomet,D07AC13,D07A
+628,Beta-histina,betaserc,N07CA01,N07C
+629,Valeriana (raíz),livetan,N05CM09,N05C
+631,Ondansetrom,ondansetrom,A04AA01,A04A
+632,yodafar,yoadfar,, 
+633,bactrim forte,bctrim forte,, 
+634,Azatioprina,azafalk,L04AX01,L04A
+635,Levofolinato de cálcio,folitec,V03AF04,V03A
+636,Loratadina,loratadina,R06AX13,R06A
+637,Ambroxol,mucosolvan,R05CB06,R05C
+638,hidróxido de alumínio,hidróxido de alúminio,A02AB01,A02A
+639,Drospirenona + Etinilestradiol,yasmin,G03AA12,G03A
+640,Trazodona,trazone,N06AX05,N06A
+641,Ácido ascórbico,cecrisina,A11GA01,A11G
+642,Dimetindeno,fenistil,D04AA13,D04A
+643,ceftriaxona,ceftriaxone,J01DD04,J01D
+645,Bromazepam,bromalex,N05BA08,N05B
+646,montelucaste,montelucast,R03DC03,R03D
+648,Desogestrel,azalia,G03AC09,G03A
+649,Amoxicilina + Ácido clavulânico,betamox plus,J01CR02,J01C
+651,Ritonavir,ritonavir,J05AE03,J05A
+653,Cobamamida,jaba b12,B03BA04,B03B
+655,Varfarina,varfine,B01AA03,B01A
+656,Olanzapina,olanzapina,N05AH03,N05A
+657,Doxilamina,doxilamina,R06AA09,R06A
+658,iodeto de potássio,iodeto de potassio,H03CA,H03C
+661,venex forte,venex forte.,, 
+662,Bisacodilo,dulcolax,A06AB02,A06A
+663,Domperidona,domperidona,A03FA03,A03F
+664,Atazanavir,atazanavir,J05AE08,J05A
+666,Brometo de piridostigmina,brometo de piridostigmina,N07AA02,N07A
+668,Amitriptilina,amitriptilina,N06AA09,N06A
+669,Pantoprazol,mag,A02BC02,A02B
+672,lepicortinolo,lepicortinole,, 
+673,Tenofovir,tenofovir,J05AF07,J05A
+675,Ebastina,ebastina,R06AX22,R06A
+679,Lopinavir + Ritonavir,kaletra,J05AR10,J05A
+680,Ofloxacina,ottoflox,J01MA01,J01M
+681,Clotrimazol,gino-canesten 1,D01AC01,D01A
+682,"Vacina contra a difteria, o tétano e a tosse convulsa",triaxis,J07A,J07A
+688,Ibuprofeno,brufen,M01AE01,M01A
+689,Zonisamida,zonegran,N03AX15,N03A
+690,Flucloxacilina,floxapen,J01CF05,J01C
+693,Rabeprazol,rabeprazol,A02BC04,A02B
+694,polivitaminico,plivitaminico,, 
+695,bricanyl,brycanil,, 
+696,ácido clavulânico,ácido clavulanico,, 
+698,Brometo de tiotrópio,spiriva,R03BB04,R03B
+699,Estradiol,zumenon,G03CA03,G03C
+700,Quetiapina,seroquel,N05AH04,N05A
+701,acetilcisteína,acetilcisteina,R05CB01,R05C
+702,atropocil,proctoial,, 
+703,Bilastina,bilaxten,R06AX,R06A
+704,Formoterol,foradil,R03AC13,R03A
+709,Duloxetina,duloxetina,N06AX21,N06A
+710,Emtricitabina + Tenofovir,truvada,J05AR03,J05A
+714,Fenticonazol,fenticonazol,D01AC12,D01A
+715,metformina,metfortmina,A10BA02,A10B
+717,ácido ursodesoxicólico,ácido ursodesoxicolico,A05AA02,A05A
+718,pankreoflat,pancreoflat,, 
+721,Oseltamivir,oseltamivir,J05AH02,J05A
+722,Oxazepam,serenal,N05BA04,N05B
+723,Flecainida,flecainida,C01BC04,C01B
+731,Omalizumab,omalizumab,R03DX05,R03D
+732,Policresaleno + Cinchocaína,faktu,C05A,C05A
+735,pantoprazol,pantaprazol,A02BC02,A02B
+736,ondansetrom,ondesatron,A04AA01,A04A
+739,nitrofurantoína,nitrofuranoína,J01XE01,J01X
+740,Mexazolam,sedoxil,N05BA,N05B
+741,Fluoxetina,prozac,N06AB03,N06A
+744,Budesonida + Formoterol,gibiter easyhaler,R03AK07,R03A
+747,Messalazina,messalazina,A07EC02,A07E
+748,Colecalciferol,colecalciferol,A11CC05,A11C
+749,Cloreto de magnésio,magnoral,A12CC01,A12C
+751,Raltegravir,raltegravir,J05AX08,J05A
+752,Brometo de ipratrópio,brometo de ipratrópio,R03BB01,R03B
+754,Atenolol,atenolol,C07AB03,C07A
+757,Levocetirizina,xyzal,R06AE09,R06A
+758,Clomipramina,anafranil,N06AA04,N06A
+759,boostrix,bosotrix,, 
+763,Bromexina,bromexina,R05CB02,R05C
+765,Iodeto de potássio,iodeto de potássio,H03CA,H03C
+767,Hidrocortisona,proctorrane,A07EA02,A07E
+768,Etinilestradiol + Etonogestrel,nuvaring,G03AA,G03A
+769,eutirox,eutorix,, 
+771,Cefuroxima,zoref,J01DC02,J01D
+773,Sinvastatina,sinvastatina,C10AA01,C10A
+774,Ácido fólico + Cianocobalamina + Iodo,folyoben,B03BB51,B03B
+775,Citrato de sódio + Laurilsulfoacetato de sódio,microlax,A06AG20,A06A
+776,betametasona,betametasona.,H02AB01,H02A
+778,Ácido valpróico,diplexil,N03AG01,N03A
+780,Cefazolina,cefazolina,J01DB04,J01D
+781,Acetato de eslicarbazepina,acetato de eslicarbazepina,N03AF04,N03A
+783,Acetonido de fluocinolona,synalar,D07AC04,D07A
+785,desloratadina,desloratidina,R06AX27,R06A
+788,Emtricitabina,emtricitabina,J05AF09,J05A
+790,Valeriana,valeriana,N05CM09,N05C
+791,propycil,propicyl,, 
+792,budesonida,budesonida.,D07AC09,D07A
+794,Óxido férrico sacarosado,venofer,B03AC,B03A
+797,Metadona,metadona,N07BC02,N07B
+800,Sulfametoxazol + Trimetoprim,cotrimoxazol,J01EE01,J01E
+801,Lactitol,importal,A06AD12,A06A
+802,cloreto de dequalínio,cloreto de dequalíneo.,G01AC05,G01A
+803,Acetilsalicilato de lisina,acetilsalicilato de lisina,N02BA01,N02B
+804,Betametasona + Clotrimazol,flotiran,D07XC01,D07X
+805,Losartan,losartan,C09CA01,C09C
+806,Calcifediol,vitodê,A11CC06,A11C
+808,Econazol,gyno-pevaryl combipack,G01AF05,G01A
+810,Infliximab,infliximab,L04AB02,L04A
+811,Carbonato de cálcio + Colecalciferol,ideos,A11JB,A11J
+812,Tramadol,tramal,N02AX02,N02A
+815,leite magnesia phillips,leite magnesia philips.,, 
+816,Sertralina,zoloft,N06AB06,N06A
+817,Calcitriol,calcitriol,A11CC04,A11C
+820,Furoato de fluticasona + Vilanterol,revinty ellipta,R03AK10,R03A
+825,hidroxizina,hidroxizima,N05BB01,N05B
+830,azatioprina,azatiotrina,L04AX01,L04A
+833,Didrogesterona,duphaston,G03DB01,G03D
+838,Hidróxido de alumínio,pepsamar,A02AB01,A02A
+839,Aciclovir,aciclovir,J05AB01,J05A
+843,Benzidamina,rosalgin,M02AA05,M02A
+846,Desloratadina,desloratadina,R06AX27,R06A
+851,Macrogol + Bicarbonato de sódio + Cloreto de potássio + Cloreto de sódio,movicol,A06AD65,A06A
+853,Ésteres etílicos 90 do ácido omega-3,omacor,C10AX,C10A
+854,Fluvoxamina,fluvoxamina,N06AB08,N06A
+855,Hidroclorotiazida,hidroclorotiazida,C03AA03,C03A
+856,Cinchocaína,nupercainal,D04AB02,D04A
+858,Cloreto de dequalínio,fluomizin,G01AC05,G01A
+860,Azitromicina,azitromicina,J01FA10,J01F
+861,sucralfato,sulcralfato,A02BX02,A02B
+862,Citalopram,citalopram,N06AB04,N06A
+863,mirtazapina,mirtazepina,N06AX11,N06A
+867,Flunarizina,flunarizina,N07CA03,N07C
+872,Furosemida,furosemida,C03CA01,C03C
+879,Diclofenac,diclofenac,M01AB05,M01A
+880,metoclopramida,metclopramida,A03FA01,A03F
+884,megasin,magnesi,, 
+888,folifer,folfier,, 
+889,Fluconazol,fluconazol,J02AC01,J02A
+892,Metformina,glucophage,A10BA02,A10B
+896,Hesperidina + Ruscus aculeatus + Ácido ascórbico,cyclo 3,C05CA51,C05C
+897,Valaciclovir,valaciclovir,J05AB11,J05A
+900,valaciclovir,valaciclovir.,J05AB11,J05A
+901,Hidroxicloroquina,hidroxicloroquina,P01BA02,P01B
+906,rilpivirina,rilçpivirina,J05AG05,J05A
+910,Rilpivirina,edurant,J05AG05,J05A
+911,Clopidogrel,clopidogrel,B01AC04,B01A
+912,Nitrofurantoína,nitrofurantoína,J01XE01,J01X
+913,Folinato de cálcio,folinato de cálcio,V03AF03,V03A
+922,Lactulose,lactulose,A06AD11,A06A
+923,Darunavir,darunavir,J05AE10,J05A
+932,venlafaxina,velafaxina,N06AX16,N06A
+945,Levotiroxina sódica,letter,H03AA01,H03A
+948,Fluticasona,flutaide,D07AC17,D07A
+961,Ácido ursodesoxicólico,ácido ursodesoxicólico,A05AA02,A05A
+962,Claritromicina,claritromicina,J01FA09,J01F
+965,Ácido fusídico,fucidine,D06AX01,D06A
+974,Telmisartan,telmisartan,C09CA07,C09C
+979,Lamivudina,lamivudina,J05AF05,J05A
+996,Paroxetina,seroxat,N06AB05,N06A
+997,Montelucaste,singulair,R03DC03,R03D
+1000,Ácido fólico,acfol,B03BB01,B03B
+1015,Aspartato de magnésio,magnesiocard,A12CC05,A12C
+1017,Ácido fólico + Ferro,folifer,B03AD,B03A
+1020,fosfomicina,fosfomicna,J01XX01,J01X
+1024,scheriproct,sheriproct,, 
+1027,Lorazepam,lorenin,N05BA06,N05B
+1029,lansoprazol,lanzoprazol,A02BC03,A02B
+1030,Diosmina,venex forte,C05CA03,C05C
+1031,Clindamicina,dalacin v,J01FF01,J01F
+1033,gyno-pevaryl combipack,gynopevaril combipack,, 
+1034,Amoxicilina,cipamox,J01CA04,J01C
+1035,folicil,focilil,, 
+1036,progesterona,progsterona,G03DA04,G03D
+1039,Vitaminas do complexo B + Ácido ascórbico + Colecalciferol + Cálcio,polivitaminico,A11,A11
+1040,Simeticone,aero-om,A03AX13,A03A
+1043,escitalopram,escitalopran,N06AB10,N06A
+1044,Sertaconazol,dermofix,D01AC14,D01A
+1045,messalazina,mesalazina,A07EC02,A07E
+1050,Budesonida,miflonide,D07AC09,D07A
+1055,gyno-pevaryl,gynopevaryl,, 
+1058,cetirizina,ceritizina,R06AE07,R06A
+1060,Diazepam,bialzepam,N05BA01,N05B
+1061,magnesiocard,magnesocard,, 
+1062,Betametasona,betametasona,H02AB01,H02A
+1066,Sucralfato,ulcermin,A02BX02,A02B
+1070,Tramadol + Paracetamol,zaldiar,N02AJ13,N02A
+1072,Clonazepam,clonazepam,N03AE01,N03A
+1073,Loperamida,imodium,A07DA03,A07D
+1077,Acetilcisteína,acetilcisteína,R05CB01,R05C
+1082,amoxicilina,amoxacilina,J01CA04,J01C
+1083,gino-canesten,gino canesten,, 
+1085,Etinilestradiol + Gestodeno,minigeste,G03AA10,G03A
+1087,ácido fólico,ácido dólico,B03BB01,B03B
+1089,Metronidazol,metronidazol,J01XD01,J01X
+1091,Vacina contra a gripe,vaxigrip,J07BB02,J07B
+1094,Piridoxina,piridoxina,A11HA02,A11H
+1097,Magaldrato,riopan,A02AD02,A02A
+1101,Propiltiouracilo,propycil,H03BA02,H03B
+1102,Aripiprazol,abilify,N05AX12,N05A
+1105,sertaconazol,sertoconazol,D01AC14,D01A
+1107,Cetirizina,zyrtec,R06AE07,R06A
+1109,Paracetamol,ben-u-ron,N02BE01,N02B
+1110,cotrimoxazol,clotrimoxazol,, 
+1111,Adalimumab,humira,L04AB04,L04A
+1114,Cefradina,cefradur,J01DB09,J01D
+1115,Alprazolam,xanax,N05BA12,N05B
+1116,Cefixima,tricef,J01DD08,J01D
+1123,Multivitaminas + Sais minerais + Ácido fólico,varimine,A11JB,A11J
+1124,valdispert,vasldispert,, 
+1125,Butilescopolamina,buscopan,A03BB01,A03B
+1128,Tiamazol,metibasol,H03BB02,H03B
+1129,Topiramato,topiramato,N03AX11,N03A
+1131,Melatonina,circadin,N05CH01,N05C
+1132,Cloxazolam,cloxam,N05BA22,N05B
+1133,Cianocobalamina,cianocobalamina,B03BA01,B03B
+1134,Carbamazepina,carbamazepina,N03AF01,N03A
+1135,fluoxetina,flçuoxetina,N06AB03,N06A
+1137,Mometasona,mometasona,D07AC13,D07A
+1138,Beta-histina,betaserc,N07CA01,N07C
+1142,yodafar,yofadar,, 
+1143,bactrim forte,bactrin forte,, 
+1146,Loratadina,loratadina,R06AX13,R06A
+1149,Drospirenona + Etinilestradiol,arankelle,G03AA12,G03A
+1155,Bromazepam,bromalex,N05BA08,N05B
+1156,montelucaste,montelucastre,R03DC03,R03D
+1159,Amoxicilina + Ácido clavulânico,betamox plus,J01CR02,J01C
+1163,Cobamamida,jaba b12,B03BA04,B03B
+1166,Olanzapina,olanzapina,N05AH03,N05A
+1171,venex forte,venex forte.,, 
+1172,Bisacodilo,dulcolax,A06AB02,A06A
+1173,Domperidona,domperidona,A03FA03,A03F
+1176,Brometo de piridostigmina,mestinon,N07AA02,N07A
+1178,Amitriptilina,amitriptilina,N06AA09,N06A
+1179,Pantoprazol,mag,A02BC02,A02B
+1182,lepicortinolo,lepicortinol,, 
+1185,Ebastina,ebastina,R06AX22,R06A
+1191,Clotrimazol,gino-canesten,D01AC01,D01A
+1198,Ibuprofeno,ibuprofeno,M01AE01,M01A
+1200,Flucloxacilina,flucloxacilina,J01CF05,J01C
+1204,polivitaminico,ploivitaminico,, 
+1208,Brometo de tiotrópio,spiriva,R03BB04,R03B
+1209,Estradiol,estradiol,G03CA03,G03C
+1213,Bilastina,lergonix,R06AX,R06A
+1224,Fenticonazol,lomexin,D01AC12,D01A
+1225,metformina,metofmrina,A10BA02,A10B
+1227,ácido ursodesoxicólico,acido ursodesoxicólico,A05AA02,A05A
+1231,Oseltamivir,oseltamivir,J05AH02,J05A
+1232,Oxazepam,serenal,N05BA04,N05B
+1241,Omalizumab,xolair,R03DX05,R03D
+1242,Policresaleno + Cinchocaína,faktu,C05A,C05A
+1246,ondansetrom,ondansetron,A04AA01,A04A
+1249,nitrofurantoína,nitrofurnatoína,J01XE01,J01X
+1251,Fluoxetina,nodepe,N06AB03,N06A
+1254,Budesonida + Formoterol,gibiter easyhaler,R03AK07,R03A
+1257,Messalazina,messalazina,A07EC02,A07E
+1258,Colecalciferol,molinar,A11CC05,A11C
+1261,Raltegravir,isentress,J05AX08,J05A
+1262,Brometo de ipratrópio,atrovent,R03BB01,R03B
+1268,Clomipramina,clomipramina,N06AA04,N06A
+1273,Bromexina,bromexina,R05CB02,R05C
+1275,Iodeto de potássio,iodeto de potássio,H03CA,H03C
+1277,Hidrocortisona,pandermil,A07EA02,A07E
+1279,eutirox,eutorix,, 
+1284,Ácido fólico + Cianocobalamina + Iodo,folyoben,B03BB51,B03B
+1288,Ácido valpróico,depakine,N03AG01,N03A
+1298,Emtricitabina,emtricitabina,J05AF09,J05A
+1302,budesonida,budesonida.,D07AC09,D07A
+1310,Sulfametoxazol + Trimetoprim,cotrimoxazol,J01EE01,J01E
+1312,cloreto de dequalínio,cloreto de dequalíneo.,G01AC05,G01A
+1318,Econazol,pevaryl,G01AF05,G01A
+1321,Carbonato de cálcio + Colecalciferol,calcium d sandoz,A11JB,A11J
+1322,Tramadol,tramadol,N02AX02,N02A
+1327,Calcitriol,rocaltrol,A11CC04,A11C
+1335,hidroxizina,hidroxisina,N05BB01,N05B
+1340,azatioprina,azatrioprina,L04AX01,L04A
+1343,Didrogesterona,duphaston,G03DB01,G03D
+1349,Aciclovir,aciclovir,J05AB01,J05A
+1361,Macrogol + Bicarbonato de sódio + Cloreto de potássio + Cloreto de sódio,movicol,A06AD65,A06A
+1368,Cloreto de dequalínio,fluomizin,G01AC05,G01A
+1371,sucralfato,sucrafalto,A02BX02,A02B
+1398,folifer,foliefr,, 
+1399,Fluconazol,diflucan,J02AC01,J02A
+1407,Valaciclovir,valaciclovir,J05AB11,J05A
+1423,Folinato de cálcio,lederfoline,V03AF03,V03A
+1530,fosfomicina,foslomicina,J01XX01,J01X
+1534,scheriproct,scheriproct.,, 
+1537,Lorazepam,lorsedal,N05BA06,N05B
+1540,Diosmina,venex forte,C05CA03,C05C
+1541,Clindamicina,dalacin,J01FF01,J01F
+1544,Amoxicilina,clamoxyl,J01CA04,J01C
+1546,progesterona,progestaerona,G03DA04,G03D
+1549,Vitaminas do complexo B + Ácido ascórbico + Colecalciferol + Cálcio,polivitaminico,A11,A11
+1550,Simeticone,aero-om,A03AX13,A03A
+1553,escitalopram,escitalopran,N06AB10,N06A
+1554,Sertaconazol,sertopic,D01AC14,D01A
+1555,messalazina,mezalasina,A07EC02,A07E
+1560,Budesonida,budesonida,D07AC09,D07A
+1565,gyno-pevaryl,gyno-pevaril,, 
+1570,Diazepam,valium,N05BA01,N05B
+1571,magnesiocard,magensiocard,, 
+1572,Betametasona,cilestoderme,H02AB01,H02A
+1576,Sucralfato,ulcermin,A02BX02,A02B
+1582,Clonazepam,rivotril,N03AE01,N03A
+1592,amoxicilina,amoxacilina,J01CA04,J01C
+1593,gino-canesten,gyno-canesten,, 
+1595,Etinilestradiol + Gestodeno,harmonet,G03AA10,G03A
+1597,ácido fólico,ácido fólioco,B03BB01,B03B
+1599,Metronidazol,metronidazol,J01XD01,J01X
+1601,Vacina contra a gripe,istivac,J07BB02,J07B
+1611,Propiltiouracilo,propycil,H03BA02,H03B
+1615,sertaconazol,sertoconazol,D01AC14,D01A
+1619,Paracetamol,dafalgan,N02BE01,N02B
+1620,cotrimoxazol,cotrimozaxol.,, 
+1621,Adalimumab,humira,L04AB04,L04A
+1624,Cefradina,cefradina,J01DB09,J01D
+1625,Alprazolam,unilan,N05BA12,N05B
+1626,Cefixima,tricef,J01DD08,J01D
+1633,Multivitaminas + Sais minerais + Ácido fólico,prenatal,A11JB,A11J
+1641,Melatonina,circadin,N05CH01,N05C
+1642,Cloxazolam,olcadil,N05BA22,N05B
+1643,Cianocobalamina,permadoze oral,B03BA01,B03B
+1644,Carbamazepina,tegretol,N03AF01,N03A
+1645,fluoxetina,fluoxettina,N06AB03,N06A
+1647,Mometasona,mometasona,D07AC13,D07A
+1652,yodafar,yodafra,, 
+1653,bactrim forte,bactrin forte,, 
+1656,Loratadina,claritine,R06AX13,R06A
+1665,Bromazepam,lexotan,N05BA08,N05B
+1666,montelucaste,monteleucaste,R03DC03,R03D
+1676,Olanzapina,zyprexa,N05AH03,N05A
+1683,Domperidona,domperidona,A03FA03,A03F
+1701,Clotrimazol,gino-canesten,D01AC01,D01A
+1708,Ibuprofeno,ibuprofeno,M01AE01,M01A
+1710,Flucloxacilina,flucloxacilina,J01CF05,J01C
+1714,polivitaminico,polivitamínico,, 
+1719,Estradiol,estradiol,G03CA03,G03C
+1723,Bilastina,bilaxten,R06AX,R06A
+1735,metformina,meformtina,A10BA02,A10B
+1737,ácido ursodesoxicólico,acido ursodesoxicólico,A05AA02,A05A
+1741,Oseltamivir,tamiflu,J05AH02,J05A
+1742,Oxazepam,oxazepam,N05BA04,N05B
+1756,ondansetrom,ondasetrom,A04AA01,A04A
+1759,nitrofurantoína,nnitrofurantoína,J01XE01,J01X
+1767,Messalazina,azzavix,A07EC02,A07E
+1785,Iodeto de potássio,yodiquer,H03CA,H03C
+1787,Hidrocortisona,hidrocortisona,A07EA02,A07E
+1798,Ácido valpróico,diplexil,N03AG01,N03A
+1820,Sulfametoxazol + Trimetoprim,bactrim,J01EE01,J01E
+1822,cloreto de dequalínio,cloreto de dequalinio,G01AC05,G01A
+1828,Econazol,gyno-pevaryl,G01AF05,G01A
+1831,Carbonato de cálcio + Colecalciferol,calcitab d,A11JB,A11J
+1832,Tramadol,tramal,N02AX02,N02A
+1881,sucralfato,sulcralfato,A02BX02,A02B
+2040,fosfomicina,fosofmicina,J01XX01,J01X
+2047,Lorazepam,ansilor,N05BA06,N05B
+2050,Diosmina,diosmina,C05CA03,C05C
+2051,Clindamicina,dalacin v,J01FF01,J01F
+2056,progesterona,pregesterona,G03DA04,G03D
+2060,Simeticone,aero-om,A03AX13,A03A
+2063,escitalopram,escitolapram,N06AB10,N06A
+2064,Sertaconazol,sertopic,D01AC14,D01A
+2070,Budesonida,budenofalk,D07AC09,D07A
+2075,gyno-pevaryl,gyno pevaryl,, 
+2080,Diazepam,unisedil,N05BA01,N05B
+2081,magnesiocard,magnediocard,, 
+2102,amoxicilina,amoxililina,J01CA04,J01C
+2103,gino-canesten,gino canesten,, 
+2107,ácido fólico,ácido fólic,B03BB01,B03B
+2111,Vacina contra a gripe,vaxigrip,J07BB02,J07B
+2130,cotrimoxazol,clotrimoxazol,, 
+2131,Adalimumab,adalimumab,L04AB04,L04A
+2135,Alprazolam,unilan,N05BA12,N05B
+2143,Multivitaminas + Sais minerais + Ácido fólico,varimine,A11JB,A11J
+2152,Cloxazolam,cloxam,N05BA22,N05B
+2153,Cianocobalamina,permadoze,B03BA01,B03B
+2162,yodafar,yodafra,, 
+2176,montelucaste,montelucast,R03DC03,R03D
+2211,Clotrimazol,clotrimazol,D01AC01,D01A
+2218,Ibuprofeno,ibuprofeno,M01AE01,M01A
+2224,polivitaminico,polivitaminica,, 
+2229,Estradiol,estrofem,G03CA03,G03C
+2233,Bilastina,lergonix,R06AX,R06A
+2245,metformina,metformian,A10BA02,A10B
+2247,ácido ursodesoxicólico,acido ursodesoxicolico,A05AA02,A05A
+2266,ondansetrom,ondasetron,A04AA01,A04A
+2269,nitrofurantoína,nitrofurantoína.,J01XE01,J01X
+2277,Messalazina,asacol,A07EC02,A07E
+2297,Hidrocortisona,hidrocortisona,A07EA02,A07E
+2308,Ácido valpróico,depakine,N03AG01,N03A
+2330,Sulfametoxazol + Trimetoprim,bactrim,J01EE01,J01E
+2338,Econazol,gyno-pevaryl,G01AF05,G01A
+2550,fosfomicina,fosafomicina,J01XX01,J01X
+2557,Lorazepam,lorsedal,N05BA06,N05B
+2560,Diosmina,venex forte,C05CA03,C05C
+2561,Clindamicina,clindamicina,J01FF01,J01F
+2574,Sertaconazol,sertaconazol,D01AC14,D01A
+2580,Budesonida,budesonida,D07AC09,D07A
+2591,magnesiocard,magnesicard,, 
+2612,amoxicilina,amoxicilia,J01CA04,J01C
+2613,gino-canesten,gyno-canesten,, 
+2617,ácido fólico,ácido fóilico,B03BB01,B03B
+2653,Multivitaminas + Sais minerais + Ácido fólico,prenatal,A11JB,A11J
+2721,Clotrimazol,canesten,D01AC01,D01A
+2734,polivitaminico,poliviatminico,, 
+2739,Estradiol,zumenon,G03CA03,G03C
+2755,metformina,meteformina,A10BA02,A10B
+2757,ácido ursodesoxicólico,acido ursodesoxicolico,A05AA02,A05A
+2776,ondansetrom,ondasetron,A04AA01,A04A
+2779,nitrofurantoína,nirtrofurantoína,J01XE01,J01X
+2807,Hidrocortisona,pandermil,A07EA02,A07E
+3070,Diosmina,venex,C05CA03,C05C
+3084,Sertaconazol,sertaconazol,D01AC14,D01A
+3101,magnesiocard,magnseiocard,, 
+3122,amoxicilina,doxicilamina,J01CA04,J01C
+3127,ácido fólico,ácido fóico,B03BB01,B03B
+3231,Clotrimazol,gino-canesten,D01AC01,D01A
+3244,polivitaminico,polivitaminicos,, 
+3265,metformina,metmorfina,A10BA02,A10B
+3289,nitrofurantoína,nitrofurantína,J01XE01,J01X
+3580,Diosmina,venex 900,C05CA03,C05C
+3611,magnesiocard,magneciocard,, 
+3632,amoxicilina,amocxicilina,J01CA04,J01C
+3637,ácido fólico,ácido fólic.,B03BB01,B03B
+3741,Clotrimazol,gino-canesten,D01AC01,D01A
+3754,polivitaminico,polivitaminico.,, 
+4090,Diosmina,diosmina,C05CA03,C05C
+4121,magnesiocard,magmnesiocard,, 
+4142,amoxicilina,amoxicilima,J01CA04,J01C
+4147,ácido fólico,ácido fálico,B03BB01,B03B
+4251,Clotrimazol,clotrimazol,D01AC01,D01A
+4264,polivitaminico,polivitaminicos,, 
+4600,Diosmina,venex,C05CA03,C05C
+4631,magnesiocard,magesiocard,, 
+4657,ácido fólico,ácido fólcio,B03BB01,B03B
+4774,polivitaminico,polivitaminico?,, 
+5110,Diosmina,venex 900,C05CA03,C05C
+5141,magnesiocard,magensiocard,, 
+5167,ácido fólico,ácido dólico,B03BB01,B03B
+5284,polivitaminico,polivitaminico.,, 
+5620,Diosmina,venex,C05CA03,C05C
+5651,magnesiocard,manesiocard,, 
+5677,ácido fólico,ácido fólio,B03BB01,B03B
+5794,polivitaminico,polivitaminico?,, 
+6161,magnesiocard,m agnesiocard,, 
+6187,ácido fólico,ácido fólicc,B03BB01,B03B
+6304,polivitaminico,poliovitaminico,, 
+6671,magnesiocard,magnmesiocard,, 
+6814,polivitaminico,polivitaminica,, 
+7181,magnesiocard,magnesuiocard,, 
+7324,polivitaminico,polivitamínico,, 
+7691,magnesiocard,mgnesiocard,, 
+8201,magnesiocard,magnesicoard,, 
